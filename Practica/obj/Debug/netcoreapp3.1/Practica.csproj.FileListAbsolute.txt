@@ -1,0 +1,4 @@
+E:\kellyn\Ciclo 2021-2\Calidad\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.csprojAssemblyReference.cache
+E:\kellyn\Ciclo 2021-2\Calidad\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.AssemblyInfoInputs.cache
+E:\kellyn\Ciclo 2021-2\Calidad\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.AssemblyInfo.cs
+E:\kellyn\Ciclo 2021-2\Calidad\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.csproj.CoreCompileInputs.cache
